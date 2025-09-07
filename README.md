@@ -1,6 +1,6 @@
 # Hi, I'm Kla1mzZ 👋  
 
-💻 **Backend Developer | ML Enthusiast**  
+💻 **Data sience | ML Developer | MLOps**  
 
 ---
 
