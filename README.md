@@ -21,6 +21,7 @@
 
 ## 📫 Contact
 - ✉️ Email: *[kla1mzz16@gmail.com]*  
-- 💼 LinkedIn: *[[link](https://www.linkedin.com/in/vova-osipok-070303327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]*  
+- 💼 LinkedIn: *[[link](https://www.linkedin.com/in/vova-osipok-070303327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]*
+- 🤖 Kaggle: *[[link](https://www.kaggle.com/kla1mzz)]*
 
 ---
