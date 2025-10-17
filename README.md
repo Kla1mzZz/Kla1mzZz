@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 - 🎯 Focused on **Python** development ML & DL (FastAPI, PyTorch, scikit-learn, Transformers).  
-- 🔨 Passionate about building **pet projects** and experimenting.  
 ---
 
 ## 🛠️ Tech Stack
