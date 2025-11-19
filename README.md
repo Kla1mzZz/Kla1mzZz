@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 - **Backend**: Python, FastAPI 
-- **ML/AI**: PyTorch, scikit-learn, Transformers  
+- **ML/AI**: PyTorch, scikit-learn, Transformers, langchain, langgraph
 - **DevOps**: Docker, Docker Compose, Nginx  
 
 ---
