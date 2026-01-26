@@ -40,6 +40,6 @@ A sophisticated agent capable of retrieving and reasoning over private documenta
 ## 📈 Stats & Profiles
 
 [![Kaggle Profile](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kla1mzz)
-[![LinkedIn]](https://www.linkedin.com/in/vova-osipok-070303327/)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/vova-osipok-070303327)
 
 📫 **Contact:** [kla1mzz16@gmail.com](mailto:kla1mzz16@gmail.com)
