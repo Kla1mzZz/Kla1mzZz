@@ -43,12 +43,6 @@ Building the future of AI through rigorous experimentation and deep learning res
 ## 🔬 Key Projects
 
 ### 🤖 [RAG-Driven AI Agent](https://github.com/Kla1mzZz/rag-assistant-langchain)
-
-A sophisticated agent capable of retrieving and reasoning over private documentation.
-
--   **Focus:** Vector embeddings, semantic search, and prompt engineering.
--   **Stack:** LangChain, LangGraph, ChromaDB, FastAPI, Docker.
-
 ---
 
 ## 📈 Stats & Profiles
