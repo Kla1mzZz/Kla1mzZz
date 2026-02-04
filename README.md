@@ -15,28 +15,12 @@ Building the future of AI through rigorous experimentation and deep learning res
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Stack
 
-### 🧠 Machine & Deep Learning
-* **Frameworks:** PyTorch, Scikit-learn, Hugging Face Transformers
-* **Computer Vision:** OpenCV, YOLOv8 (Object Detection, Image Classification)
-* **Optimization:** ONNX, Quantization
-
-### 🤖 LLM & Generative AI
-* **Architectures:** RAG Pipelines, Agentic Workflows
-* **Orchestration:** LangChain, LangGraph
-* **Vector DBs:** Pinecone, Qdrant, ChromaDB
-* **Models:** OpenAI API, Llama, Gemeni API,
-
-### ⚙️ MLOps & Infrastructure
-* **Containerization:** Docker, Docker Compose
-* **Deployment:** FastAPI, MLflow
-* **Environment:** Linux (Ubuntu), Redis
-
-### 📊 Data & Programming
-* **Languages:** Python (Expert), C++ (Basics), SQL
-* **Data Processing:** NumPy, Pandas, Data Annotation Pipelines
-* **Databases:** PostgreSQL
+* **AI & GenAI:** RAG Pipelines, Agentic Workflows (LangGraph, LangChain).
+* **Machine Learning:** PyTorch, Scikit-learn, Hugging Face, YOLOv8, OpenCV.
+* **MLOps & Infra:** Docker, Docker Compose, Git, FastAPI, MLflow, ONNX, Quantization, Redis.
+* **Data & Backend:** Python (Expert), C++ (Basics), SQL, Vector DBs (Pinecone, Qdrant, ChromaDB).
 
 ---
 
