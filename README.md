@@ -18,8 +18,8 @@ Building the future of AI through rigorous experimentation and deep learning res
 ## 🛠️ Technical Stack
 
 * **AI & GenAI:** RAG Pipelines, Agentic Workflows (LangGraph, LangChain).
-* **Machine Learning:** PyTorch, Scikit-learn, Hugging Face, YOLOv8, OpenCV.
-* **MLOps & Infra:** Docker, Docker Compose, Git, FastAPI, MLflow, ONNX, Quantization, Redis.
+* **Machine Learning:** PyTorch, Scikit-learn, Hugging Face, OpenCV.
+* **MLOps & Infra:** Docker, Docker Compose, Git, FastAPI, MLflow, ONNX, OpenVINO, Redis.
 * **Data & Backend:** Python (Expert), C++ (Basics), SQL, Vector DBs (Pinecone, Qdrant, ChromaDB).
 
 ---
