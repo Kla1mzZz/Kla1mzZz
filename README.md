@@ -1,6 +1,6 @@
 # Hi, I'm Kla1mzZ 👋
 
-### 🧠 Aspiring ML/AI Researcher | 18 y.o.
+### 🧠 Aspiring ML/AI Engineer | 18 y.o.
 
 Building the future of AI through rigorous experimentation and deep learning research.
 
@@ -20,7 +20,7 @@ Building the future of AI through rigorous experimentation and deep learning res
 * **AI & GenAI:** RAG Pipelines, Agentic Workflows (LangGraph, LangChain).
 * **Machine Learning:** PyTorch, Scikit-learn, Hugging Face, OpenCV.
 * **MLOps & Infra:** Docker, Docker Compose, Git, FastAPI, MLflow, ONNX, OpenVINO, Redis.
-* **Data & Backend:** Python (Expert), C++ (Basics), SQL, Vector DBs (Pinecone, Qdrant, ChromaDB).
+* **Data & Backend:** Python, C++, SQL, Vector DBs (Pinecone, Qdrant, ChromaDB).
 
 ---
 
