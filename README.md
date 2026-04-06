@@ -1,6 +1,6 @@
 # Hi, I'm Kla1mzZ 👋
 
-### 🧠 Aspiring ML/AI Engineer | 18 y.o.
+### 🧠 ML/AI Engineer
 
 Building the future of AI through rigorous experimentation and deep learning research.
 
