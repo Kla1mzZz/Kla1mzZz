@@ -26,7 +26,7 @@ Building the future of AI through rigorous experimentation and deep learning res
 
 ## 🔬 Key Projects
 
-### ⚙️ [Chrun Microservice Api](https://github.com/Kla1mzZz/chrun-microservice-api)
+### ⚙️ [Churn Microservice Api](https://github.com/Kla1mzZz/chrun-microservice-api)
 ### 🤖 [RAG-Driven AI Agent](https://github.com/Kla1mzZz/rag-assistant-langchain)
 ---
 
