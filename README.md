@@ -28,6 +28,8 @@ Building the future of AI through rigorous experimentation and deep learning res
 
 ### ⚙️ [Churn Microservice Api](https://github.com/Kla1mzZz/chrun-microservice-api)
 ### 🤖 [RAG-Driven AI Agent](https://github.com/Kla1mzZz/rag-assistant-langchain)
+### [GPT from scratch and C++ Inference](https://github.com/Kla1mzZz/gpt-from-scratch)
+
 ---
 
 ## 📈 Stats & Profiles
